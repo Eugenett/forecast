@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/forecast/static/js/main.9038491c.js",
+    "index.html": "/forecast/index.html",
+    "main.9038491c.js.map": "/forecast/static/js/main.9038491c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9038491c.js"
+  ]
+}
